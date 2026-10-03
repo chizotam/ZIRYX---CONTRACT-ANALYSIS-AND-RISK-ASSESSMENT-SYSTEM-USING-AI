@@ -102,19 +102,23 @@ The application provides a document-focused interface for uploading contracts, r
 
 ### Contract Upload
 
-![Contract upload screen](images/contract-upload.png)
+![Contract upload screen](contract%20upload.png)
 
 ### Contract Analysis
 
-![Contract analysis screen](images/contract-analysis-1.png)
+![Contract analysis screen](contract%20analysis.png)
 
-### Contract Analysis (continued)
+### Contract Analysis (second view)
 
-![Contract analysis screen, second view](images/contract-analysis-2.png)
+![Contract analysis screen, second view](contract%20analysis%202.png)
+
+### Analysis Panel
+
+![Analysis panel](analysis%20panel.png)
 
 ### Loophole Analysis
 
-![Loophole analysis screen](images/loophole-analysis.png)
+![Loophole analysis screen](loophole%20analysis.png)
 
 ## Project Objectives
 
